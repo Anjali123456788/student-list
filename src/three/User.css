@@ -1,0 +1,16 @@
+
+th{
+    width: 100px;
+    background-color: black;
+    color: white;
+}
+td{
+background-color: rgb(241, 235, 235);
+}
+button{
+    outline: none;
+}
+/* .User{
+text-align: center;
+margin-top: 80px;
+} */
